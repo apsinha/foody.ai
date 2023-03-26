@@ -1,0 +1,23 @@
+[
+  {
+    "meal_number": 1,
+    "time_of_day": "Breakfast",
+    "meal_description": "Asparagus and Citrus Scrambled Eggs",
+    "ingredients_chosen": ["Asparagus", "Citrus (grapefruit, kumquats, lemons, mandarins)", "Eggs"],
+    "recipe_for_meal": "Instructions: \n1. Chop the asparagus into 1-inch pieces and set aside.\n2. Peel and section citrus of choice and set aside.\n3. Heat a skillet over medium heat and add the oil or butter.\n4. Add the asparagus pieces and sauté for 2-3 minutes.\n5. Add the citrus sections and cook for an additional minute.\n6. Meanwhile, whisk together the eggs and season with salt and pepper.\n7. Pour the egg mixture into the skillet over the vegetables and cook, stirring occasionally until the eggs are cooked through.\n8. Serve with a drizzle of honey and enjoy!"
+  },
+  {
+    "meal_number": 2,
+    "time_of_day": "Lunch",
+    "meal_description": "Cabbage and Carrot Salad with Honey Dressing",
+    "ingredients_chosen": ["Cabbage", "Carrots", "Honey"],
+    "recipe_for_meal": "Instructions: \n1. Shred the cabbage and grate the carrots. Place in a large bowl.\n2. In a small bowl, whisk together the olive oil, honey, cider vinegar, garlic, and salt and pepper to taste.\n3. Pour the dressing over the cabbage and carrots and toss to combine.\n4. Serve and enjoy!"
+  },
+  {
+    "meal_number": 3,
+    "time_of_day": "Dinner",
+    "meal_description": "Winter Squash and Pea Shoot Risotto",
+    "ingredients_chosen": ["Winter squash", "Pea shoots", "Arborio rice", "White wine", "Parmesan cheese"],
+    "recipe_for_meal": "Instructions: \n1. Heat a skillet over medium heat.\n2. Add the oil and the diced squash. Sauté for 3-4 minutes.\n3. Add the Arborio rice and stir to combine.\n4. Add the white wine and stir until absorbed.\n5. Add the vegetable broth, 1/2 cup at a time, stirring constantly until the liquid is absorbed before adding more.\n6. Once the rice is cooked through, add the pea shoots and stir to combine.\n7. Turn off the heat and stir in the Parmesan cheese.\n8. Serve and enjoy!"
+  }
+]

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Foody AI</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+    <style>
+        /* Style the input fields */
+        input[type=text] {
+          border-radius: 30px;
+          padding: 10px;
+          font-size: 15px;
+/*          font-family: Arial, sans-serif;*/
+        }
+        /* Style the submit button */
+        input[type=submit] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 30px;
+            padding: 5px 10px;
+            font-size: 15px;
+/*            font-family: Arial, sans-serif;*/
+            cursor: pointer;
+        }
+        body {
+          font-family: 'Montserrat', sans-serif;
+        }
+        .form-container {
+            background-color: #FFFFFF;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        html, body {
+          height: 100%;
+          margin: 0;
+          padding: 0;
+        }
+        .form-container {
+          position: relative;
+          top: 50%;
+          transform: translateY(-50%);
+          text-align: center;
+        }
+
+    </style>
+
+
+</head>
+
+<body>
+    <!-- <h1>Demographic Information</h1> -->
+    <div class="form-container">
+        <h1>Foody AI</h1>
+        <form action="/submit" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name"><br><br>
+            <label for="gender">Gender:</label>
+            <input type="text" id="gender" name="gender"><br><br>
+            <label for="age">Age:</label>
+            <input type="text" id="age" name="age"><br><br>
+            <label for="location">Location:</label>
+            <input type="text" id="location" name="location"><br><br>
+            <label for="preferences">Preferences:</label>
+            <input type="text" id="preferences" name="preferences"><br><br>
+            <!-- <label for="month">Month:</label>
+            <input type="text" id="month" name="month"><br><br> -->
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+    <script>
+        
+    </script>
+</body>
+
+</html>
+

@@ -1,0 +1,36 @@
+[
+  {
+    "meal_number": 1,
+    "time_of_day": "Breakfast",
+    "meal_description": "Winter Squash Breakfast Bowl",
+    "ingredients_chosen": [
+      "Winter squash",
+      "Citrus (grapefruit, kumquats, lemons, mandarins)",
+      "Kale"
+    ],
+    "recipe_for_meal": "Preheat oven to 400 degrees. Cut winter squash into cubes, and place on a baking sheet. Drizzle with olive oil, salt and pepper. Roast in the oven for 30-40 minutes, stirring occasionally. In a large bowl, combine roasted squash cubes, citrus slices, and torn kale. Drizzle with a teaspoon of olive oil, a sprinkle of salt and pepper, and mix together. Serve in a bowl and enjoy!"
+  },
+  {
+    "meal_number": 2,
+    "time_of_day": "Lunch",
+    "meal_description": "Asparagus and Pea Shoot Salad",
+    "ingredients_chosen": [
+      "Asparagus",
+      "Pea shoots",
+      "Cauliflower"
+    ],
+    "recipe_for_meal": "Bring a pot of salted water to a boil. Add asparagus to the boiling water and cook 2-3 minutes until tender. Remove from heat and cool in an ice bath. In a large bowl, combine cooked asparagus, pea shoots, and cauliflower florets. Drizzle with olive oil, lemon juice, salt, and pepper. Mix together and serve."
+  },
+  {
+    "meal_number": 3,
+    "time_of_day": "Dinner",
+    "meal_description": "Vegetable and Citrus Stir Fry",
+    "ingredients_chosen": [
+      "Citrus (grapefruit, kumquats, lemons, mandarins)",
+      "Cabbage",
+      "Radish"
+    ],
+    "recipe_for_meal": "Heat a large skillet over medium-high heat. Add 2 tablespoons of oil to the skillet. Once hot, add cabbage and radish, stirring occasionally. Cook for 3-4 minutes until vegetables are tender. Add citrus slices and stir fry for an additional 2 minutes. Add a splash of soy sauce, and season with salt and pepper. Serve over your favorite grain and enjoy!"
+  }
+]
+
